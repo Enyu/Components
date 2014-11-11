@@ -1,7 +1,7 @@
 {
   "name": "input-mask",
   "main": "input-mask.js",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "homepage": "https://github.com/Enyu/Components",
   "authors": [
     "enyu <linqtoxml@gmail.com>"
@@ -11,5 +11,12 @@
     "input",
     "mask"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
