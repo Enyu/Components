@@ -1,0 +1,19 @@
+{
+  "name": "hmm-input-mask",
+  "version": "1.0.1",
+  "homepage": "https://github.com/Enyu/Components",
+  "authors": [
+    "enyu <linqtoxml@gmail.com>"
+  ],
+  "description": "bower demo",
+  "main": "input-mask.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
